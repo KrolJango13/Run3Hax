@@ -7,13 +7,9 @@ The Run 3 config is stored as a sort of CSV, with the delimeter as a colon. This
 Config values (there are more, but these are just the important ones):
 - currentPath
 - currentCharacter
-- exploreRuns
-- exploreprimary
 - tilesDislodged
-- infiniteRunsUnfiltered
 - infiniteRuns
 - infiniteDistance
-- infinite
 - mostBatteries
 - softEarned
 
